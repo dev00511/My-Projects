@@ -1,2 +1,2 @@
 # My-Projects
-Contains the projects and mini-projects I have made.
+Contains few projects and mini-projects I have made during my course work at MIT, Manipal.
